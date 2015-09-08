@@ -10,6 +10,8 @@
 ;
 
 (function () {
+    
+    console.log('beeeeeeeeeen called!!! :)');
 
 var call = Function.prototype.call;
 var prototypeOfObject = Object.prototype;
