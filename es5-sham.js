@@ -10,9 +10,6 @@
 ;
 
 (function () {
-    
-    console.log('beeeeeeeeeen called!!! :)');
-
 var call = Function.prototype.call;
 var prototypeOfObject = Object.prototype;
 var owns = call.bind(prototypeOfObject.hasOwnProperty);
