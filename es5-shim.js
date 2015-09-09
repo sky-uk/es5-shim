@@ -11,8 +11,6 @@
 
 (function () {
 	
-	console.log('shiiiiiim');
-
 /**
  * Brings an environment as close to ECMAScript 5 compliance
  * as is possible with the facilities of erstwhile engines.
